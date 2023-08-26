@@ -8,8 +8,7 @@ import UIKit
 class ViewController: UITableViewController {
     
     
-    static let EMPATICA_API_KEY = "ADD_YOUR_KEY_HERE"
-    
+    static let EMPATICA_API_KEY = "97beb9dd63e34bae9eb3e10f9f28d639"
     
     private var devices: [EmpaticaDeviceManager] = []
     
